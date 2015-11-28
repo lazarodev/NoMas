@@ -23,7 +23,7 @@ public class DetalleItemActivity extends AppCompatActivity {
     private String nicknameBundle;
     private String denunciaBundle;
     private int avatarBundle;
-
+    //new comit
     @Bind(R.id.tvIdDetalle)
     TextView idDetalle;
     @Bind(R.id.tvNickNameDetalle)
